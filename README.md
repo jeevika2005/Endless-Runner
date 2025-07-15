@@ -1,6 +1,6 @@
 # Endless-Runner (Run Buddy Run)
 
-![Linters](https://github.com/jeevika2005/Endless-Runner/workflows/Linters/badge.svg)
+
 [![GitHub Pull Requests](https://img.shields.io/badge/GitHub-Pull%20Requests-blue)]()
 
 ## Project Description

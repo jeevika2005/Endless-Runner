@@ -97,7 +97,7 @@
 2. If you have a solution to that, and you are willing to work on it, follow the below steps to contribute:
     1.  Fork this repository
 
-    1.  Clone it on your local computer by running `git clone git@github.com:jeevika2005/Endless-Runner.git` __Replace *jeevika2005* with the username you use on github__
+    1.  Clone it on your local computer by running `git clone git@github.com:jeevika2005/Endless-Runner.git` 
     1.  Open the cloned repository which appears as a folder on your local computer with your favorite code editor
     1.  Create a separate branch off the *master branch*,
     1.  Write your codes which fix the issue you found
@@ -106,21 +106,11 @@
 
 ## ✒️  Authors
 
-👤 **Roy Ntaate**
+JEEVIKA GL
 
 - Github: [@jeevika2005](https://github.com/jeevika2005)
-- Twitter: [@jeevika2005](https://twitter.com/jeevika2005)
-- Linkedin: [roy-ntaate](https://linkedin.com/in/roy-ntaate)
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgements
-
-- [Microverse](https:www.microverse.org)
-- [OpenGameArt.org](https://opengameart.org/)
-- [CoolText.com](https://cooltext.com/)
-- [MarwaMJ](https://marwamj.itch.io/)
-- [kenney.nl](https://www.kenney.nl/)
-- [Youtube](https://www.youtube.com/)
